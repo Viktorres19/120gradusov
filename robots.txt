@@ -1,0 +1,21 @@
+HOST: http://podushki.kh.ua/
+
+User-agent: Googlebot
+Disallow: /admin/
+Disallow: /css/
+Disallow: /fancybox/
+Disallow: /img/
+Disallow: /js/
+Disallow: /otzivi/
+Disallow: /fonts/
+Sitemap: http://podushki.kh.ua/index.xml
+
+User-agent: *
+Disallow: /admin/
+Disallow: /css/
+Disallow: /fancybox/
+Disallow: /img/
+Disallow: /js/
+Disallow: /otzivi/
+Disallow: /fonts/
+Sitemap: http://podushki.kh.ua/index.xml

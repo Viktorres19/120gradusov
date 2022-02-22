@@ -1,0 +1,1 @@
+$(window).on("scroll",{passive:!0},function(){$(".sl").not(".slick-initialized").slick({autoplay:!0,prevArrow:'<button class="slider-main__button slider-main__button-prev"><img width="40" height="64" src="img/left.png" alt=""></button>',nextArrow:'<button class="slider-main__button slider-main__button-next"><img width="40" height="64" src="img/right.png" alt=""></button>'})});

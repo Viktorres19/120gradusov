@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(e){var n=document.querySelector(".loadLater"),t=document.querySelector("head");n&&t&&t.insertAdjacentHTML("beforeend",n.innerHTML)});
