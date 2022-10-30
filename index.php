@@ -67,7 +67,7 @@
 								<div class="child-1">
 									<img width="41" height="24" src="img/Vodafone.png" alt="иконка наш номер Водафон">
 								</div>
-								<div class="child-2">+38(095)925-66-09</div>
+								<div class="child-2">+38(066)005-91-95</div>
 							</div>
 						</div>
 						<div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">
