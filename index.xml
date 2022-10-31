@@ -102,25 +102,38 @@
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
-<url>
+	<url>
 		<loc>https://podushki.kh.ua/blog7/</loc>
 		<lastmod>2021-06-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>	
-<url>
+	<url>
 		<loc>https://podushki.kh.ua/blog8/</loc>
 		<lastmod>2021-10-20</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
-<url>
+	<url>
 		<loc>https://podushki.kh.ua/blog9/</loc>
 		<lastmod>2022-07-25</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 	</url>
-<url>		<loc>https://podushki.kh.ua/kontakti/</loc>
+	<url>
+		<loc>https://podushki.kh.ua/blog10/</loc>
+		<lastmod>2022-10-31</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://podushki.kh.ua/blog11/</loc>
+		<lastmod>2022-10-31</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://podushki.kh.ua/kontakti/</loc>
 		<lastmod>2018-07-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
@@ -130,4 +143,5 @@
 		<lastmod>2018-07-08</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
-	</url></urlset>
+	</url>
+</urlset>
