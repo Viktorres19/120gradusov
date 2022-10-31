@@ -2,8 +2,24 @@
 <html lang="ru">
 	<head>
 		<meta charset="utf-8">
+		<!-- Primary Meta Tags -->
 		<title>120 Градусов - Чистка и реставрация подушек Харьков</title>
+		<meta name="title" content="120 Градусов - Чистка и реставрация подушек Харьков">
 		<meta name="description" content="Бесплатная доставка по Харькову и лучшие цены: реставрация подушек, стирка паром, сухая чистка, аквачистка химчистка, и при покупке тканей и готовых изделий – Компания 120 градусов">
+
+		<!-- Open Graph / Facebook -->
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://podushki.kh.ua/">
+		<meta property="og:title" content="120 Градусов - Чистка и реставрация подушек Харьков">
+		<meta property="og:description" content="Бесплатная доставка по Харькову и лучшие цены: реставрация подушек, стирка паром, сухая чистка, аквачистка химчистка, и при покупке тканей и готовых изделий – Компания 120 градусов">
+		<meta property="og:image" content="https://podushki.kh.ua/img/teasers/teaser-index.jpg">
+
+		<!-- Twitter -->
+		<meta property="twitter:card" content="summary_large_image">
+		<meta property="twitter:url" content="https://podushki.kh.ua/">
+		<meta property="twitter:title" content="120 Градусов - Чистка и реставрация подушек Харьков">
+		<meta property="twitter:description" content="Бесплатная доставка по Харькову и лучшие цены: реставрация подушек, стирка паром, сухая чистка, аквачистка химчистка, и при покупке тканей и готовых изделий – Компания 120 градусов">
+		<meta property="twitter:image" content="https://podushki.kh.ua/img/teasers/teaser-index.jpg">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<link rel="shortcut icon" href="img/favicon/favicon.png" type="image/x-icon">
