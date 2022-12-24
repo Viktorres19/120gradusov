@@ -159,6 +159,9 @@
 								<li class="main-menu__item">
 									<a class="main-menu__link" href="kontakti/">Контакты</a>
 								</li>
+								<li class="main-menu__item">
+									<a class="main-menu__link" href="khimchistka-army/">Химчистка ЗСУ</a>
+								</li>
 							</ul>
 						</nav>
 					</div>
