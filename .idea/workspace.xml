@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b36b855e-228b-48c6-82ba-12cf698744f4" name="Changes" comment="added zsu page updated index.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/khimchistka-army/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/khimchistka-army/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,14 @@
       <workItem from="1671809037713" duration="1693000" />
       <workItem from="1671865408160" duration="4984000" />
     </task>
+    <task id="LOCAL-00001" summary="added zsu page updated index.xml">
+      <created>1671874118857</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671874118857</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
