@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b36b855e-228b-48c6-82ba-12cf698744f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/khimchistka-army/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/120gradusov.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.well-known/acme-challenge/6J5HCzs8OXsA026vGI9avQbKoKcsu1lmjq0PY61SmhI" beforeDir="false" afterPath="$PROJECT_DIR$/.well-known/acme-challenge/6J5HCzs8OXsA026vGI9avQbKoKcsu1lmjq0PY61SmhI" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.well-known/acme-challenge/SYaYm9ciR2udf1ZbvuD8oS17weQM1GHEOlJh9DT4mkA" beforeDir="false" afterPath="$PROJECT_DIR$/.well-known/acme-challenge/SYaYm9ciR2udf1ZbvuD8oS17weQM1GHEOlJh9DT4mkA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.well-known/acme-challenge/Ukxaf9FmXWrm-mM9Me1TgbJQEetx4pBz9LuDgYFT_1I" beforeDir="false" afterPath="$PROJECT_DIR$/.well-known/acme-challenge/Ukxaf9FmXWrm-mM9Me1TgbJQEetx4pBz9LuDgYFT_1I" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.well-known/acme-challenge/t0GP553kgEKdyGmc0OoriskxFY2_OPsgBFhqa39wsXk" beforeDir="false" afterPath="$PROJECT_DIR$/.well-known/acme-challenge/t0GP553kgEKdyGmc0OoriskxFY2_OPsgBFhqa39wsXk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/admin/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/conf.ini" beforeDir="false" afterPath="$PROJECT_DIR$/admin/conf.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog11/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog12/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog8/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fancybox/helpers/jquery.fancybox-buttons.css" beforeDir="false" afterPath="$PROJECT_DIR$/fancybox/helpers/jquery.fancybox-buttons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fancybox/helpers/jquery.fancybox-buttons.js" beforeDir="false" afterPath="$PROJECT_DIR$/fancybox/helpers/jquery.fancybox-buttons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fancybox/helpers/jquery.fancybox-media.js" beforeDir="false" afterPath="$PROJECT_DIR$/fancybox/helpers/jquery.fancybox-media.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fancybox/helpers/jquery.fancybox-thumbs.css" beforeDir="false" afterPath="$PROJECT_DIR$/fancybox/helpers/jquery.fancybox-thumbs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fancybox/helpers/jquery.fancybox-thumbs.js" beforeDir="false" afterPath="$PROJECT_DIR$/fancybox/helpers/jquery.fancybox-thumbs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fancybox/jquery.fancybox.css" beforeDir="false" afterPath="$PROJECT_DIR$/fancybox/jquery.fancybox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fancybox/jquery.fancybox.js" beforeDir="false" afterPath="$PROJECT_DIR$/fancybox/jquery.fancybox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fancybox/jquery.fancybox.pack.js" beforeDir="false" afterPath="$PROJECT_DIR$/fancybox/jquery.fancybox.pack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/galereya/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/galereya/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/adv-01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/adv-01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/adv-03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/adv-03.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/adv-04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/adv-04.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/favicon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/khimchistka-akvachistka/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/khimchistka-akvachistka/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/khimchistka-auto/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/khimchistka-auto/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/khimchistka/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/khimchistka/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kontakti/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/kontakti/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/message.php" beforeDir="false" afterPath="$PROJECT_DIR$/message.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/otzivi/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/otzivi/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-odeyala/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-odeyala/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-podyshki/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-podyshki/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-postelnoe-belyo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-postelnoe-belyo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-tkani/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/product-tkani/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seestats.php" beforeDir="false" afterPath="$PROJECT_DIR$/seestats.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stat.php" beforeDir="false" afterPath="$PROJECT_DIR$/stat.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stirka_parom/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/stirka_parom/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/syhaya-chistka/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/syhaya-chistka/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JJvWiNJE2ZM9XCjBlozcQKGr7u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "last_opened_file_path": "D:/120gradusov/khimchistka-army",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\120gradusov\khimchistka-army" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b36b855e-228b-48c6-82ba-12cf698744f4" name="Changes" comment="" />
+      <created>1671809035447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671809035447</updated>
+      <workItem from="1671809037713" duration="1693000" />
+      <workItem from="1671865408160" duration="4984000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
