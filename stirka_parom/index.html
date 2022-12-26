@@ -293,13 +293,13 @@
 	<div class="contact-container">
 		<div class="container">
 			<div class="row">
-				<div class="contact-form">
-					<form class="contact-form__callback">
+				<div id="contact-form" class="contact-form">
+					<div class="contact-form__callback">
 						<div class="contact-form__h2">Оставить заявку</div>
 						<p class="contact-form__text">Выберите интересующую услугу или товар и мы Вам перезвоним</p>
-						<input class="contact-form__input contact-form__name" type="text" name="name" placeholder="Ваше имя..." pattern="^[а-яА-ЯёЁa-zA-Z0-9]+$" required>
-						<input class="contact-form__input contact-form__tel" type="tel" id="tel" name="phone" placeholder="Ваш телефон... (___)___-__-__" required>
-						<select class="contact-form__select" name="order">
+						<input class="contact-form__input contact-form__name" type="text" id="name" placeholder="Ваше имя..." required>
+						<input class="contact-form__input contact-form__tel" type="tel" id="phone" name="phone" placeholder="Ваш телефон... (___)___-__-__" required>
+						<select id="service" class="contact-form__select" name="Наименование заказа">
 							<option disabled selected value>Вас интересует...</option>
 							<option>Стирка паром 120°</option>
 							<option>Сухая чистка</option>
@@ -314,9 +314,9 @@
 							<option>Химчистка ковров</option>
 							<option>Химчистка салонов авто</option>
 						</select>
-						<button class="contact-form__button">оставить заявку</button>
-						<div class="contact-form__message">Ваше сообщение было отправлено</div>
-					</form>
+						<button class="contact-form__button" onclick="sendMail()">оставить заявку</button>
+						<div id="alert">Дякуємо за ваш запит!</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -345,6 +345,12 @@
 		</div>
 	</footer>
 	<script src="../form-javascript.js" async></script>
+	<script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+	<script>
+      (function () {
+        emailjs.init("tJ11KKgWRvvgZ-Nqe");
+      })();
+	</script>
 </body>
 
 </html>
